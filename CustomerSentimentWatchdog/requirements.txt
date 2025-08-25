@@ -1,0 +1,11 @@
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+torch>=2.2.0
+transformers==4.43.3
+plotly==5.22.0
+scikit-learn==1.5.1
+nltk==3.9.1
+yake==0.4.8
+openpyxl==3.1.5
+reportlab==4.2.2
